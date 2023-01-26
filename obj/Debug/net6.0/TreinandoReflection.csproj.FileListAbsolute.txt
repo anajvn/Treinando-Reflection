@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoReflection\bin\Debug\net6.0\TreinandoReflection.exe
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoReflection\bin\Debug\net6.0\TreinandoReflection.deps.json
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoReflection\bin\Debug\net6.0\TreinandoReflection.runtimeconfig.json
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoReflection\bin\Debug\net6.0\TreinandoReflection.dll
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoReflection\bin\Debug\net6.0\TreinandoReflection.pdb
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoReflection\obj\Debug\net6.0\TreinandoReflection.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoReflection\obj\Debug\net6.0\TreinandoReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoReflection\obj\Debug\net6.0\TreinandoReflection.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoReflection\obj\Debug\net6.0\TreinandoReflection.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoReflection\obj\Debug\net6.0\TreinandoReflection.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoReflection\obj\Debug\net6.0\TreinandoReflection.dll
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoReflection\obj\Debug\net6.0\refint\TreinandoReflection.dll
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoReflection\obj\Debug\net6.0\TreinandoReflection.pdb
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoReflection\obj\Debug\net6.0\TreinandoReflection.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\TreinandoReflection\obj\Debug\net6.0\ref\TreinandoReflection.dll
